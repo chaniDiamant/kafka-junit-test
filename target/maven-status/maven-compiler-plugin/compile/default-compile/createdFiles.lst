@@ -1,0 +1,11 @@
+com\github\charithe\kafka\ProducerDemo.class
+com\example\Customer$1.class
+com\example\Customer$Builder.class
+com\github\charithe\kafka\KafkaJunitRule$StartupMode.class
+com\github\charithe\kafka\EphemeralKafkaBroker$1.class
+com\github\charithe\kafka\KafkaHelper$RecordConsumer.class
+com\example\Customer.class
+com\github\charithe\kafka\KafkaJunitRule.class
+com\github\charithe\kafka\KafkaHelper.class
+com\github\charithe\kafka\ConsumerDemo.class
+com\github\charithe\kafka\EphemeralKafkaBroker.class

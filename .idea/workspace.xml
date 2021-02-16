@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c75a8a8d-87a2-4a95-acff-2b1dc048bd53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\diamant\Desktop\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="C:\Users\diamant\.m2\kafka.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1oKuNiqKkt4XUva7YHw4219dAGM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/github/charithe/kafka" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.charithe.kafka" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diamant\kafka-junit\src\main\java\com\github\charithe\kafka" />
+      <recent name="C:\Users\diamant\kafka-junit\src\main" />
+      <recent name="C:\Users\diamant\kafka-junit\src\test\java\com\github\charithe\kafka" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ConsumerAvroTest">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerAvroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.charithe.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.charithe.kafka" />
+      <option name="MAIN_CLASS_NAME" value="com.github.charithe.kafka.ConsumerAvroTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EphemeralKafkaBrokerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.charithe.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.charithe.kafka" />
+      <option name="MAIN_CLASS_NAME" value="com.github.charithe.kafka.EphemeralKafkaBrokerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerAvroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.charithe.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.charithe.kafka" />
+      <option name="MAIN_CLASS_NAME" value="com.github.charithe.kafka.ProducerAvroTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.charithe.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.charithe.kafka" />
+      <option name="MAIN_CLASS_NAME" value="com.github.charithe.kafka.ProducerDemoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.github.charithe.kafka in kafka-junit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.charithe.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.charithe.kafka" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConsumerAvroTest" />
+        <item itemvalue="JUnit.EphemeralKafkaBrokerTest" />
+        <item itemvalue="JUnit.ProducerDemoTest" />
+        <item itemvalue="JUnit.com.github.charithe.kafka in kafka-junit" />
+        <item itemvalue="JUnit.ProducerAvroTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c75a8a8d-87a2-4a95-acff-2b1dc048bd53" name="Default Changelist" comment="" />
+      <created>1613047566557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613047566557</updated>
+      <workItem from="1613047572484" duration="271000" />
+      <workItem from="1613048177938" duration="331000" />
+      <workItem from="1613048725472" duration="2565000" />
+      <workItem from="1613285194544" duration="20181000" />
+      <workItem from="1613371712733" duration="15815000" />
+      <workItem from="1613392934808" duration="6092000" />
+      <workItem from="1613399828066" duration="697000" />
+      <workItem from="1613461625079" duration="4244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2457" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1613290586405">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state x="2457" y="98" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613290586405" />
+    <state x="2435" y="261" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1613295503539">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state x="2435" y="261" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613295503539" />
+    <state x="2407" y="95" key="#xdebugger.evaluate" timestamp="1613395522468">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state x="2407" y="95" key="#xdebugger.evaluate/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613395522468" />
+    <state width="426" height="438" key="DebuggerActiveHint" timestamp="1613291298132">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state width="426" height="438" key="DebuggerActiveHint/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613291298132" />
+    <state x="2403" y="110" key="FileChooserDialogImpl" timestamp="1613462260838">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state x="2403" y="110" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613462260838" />
+    <state width="1420" height="247" key="GridCell.Tab.0.bottom" timestamp="1613467096469">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="247" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613467096469" />
+    <state width="1420" height="247" key="GridCell.Tab.0.center" timestamp="1613467096469">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="247" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613467096469" />
+    <state width="1420" height="247" key="GridCell.Tab.0.left" timestamp="1613467096469">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="247" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613467096469" />
+    <state width="1420" height="247" key="GridCell.Tab.0.right" timestamp="1613467096469">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="247" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613467096469" />
+    <state width="1420" height="216" key="GridCell.Tab.1.bottom" timestamp="1613399367883">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="216" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613399367883" />
+    <state width="1420" height="216" key="GridCell.Tab.1.center" timestamp="1613399367883">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="216" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613399367883" />
+    <state width="1420" height="216" key="GridCell.Tab.1.left" timestamp="1613399367883">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="216" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613399367883" />
+    <state width="1420" height="216" key="GridCell.Tab.1.right" timestamp="1613399367883">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="216" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613399367883" />
+    <state x="2448" y="94" key="RollbackChangesDialog" timestamp="1613299070742">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state x="2448" y="94" key="RollbackChangesDialog/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613299070742" />
+    <state x="2132" y="0" key="SettingsEditor" timestamp="1613396776593">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state x="2132" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613396776593" />
+    <state width="738" height="398" key="XDebugger.FullValuePopup" timestamp="1613309887716">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state width="738" height="398" key="XDebugger.FullValuePopup/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613309887716" />
+    <state x="2258" y="2" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1613291531616">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state x="2258" y="2" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613291531616" />
+    <state x="2577" y="154" key="extract.method.dialog" timestamp="1613306105542">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state x="2577" y="154" key="extract.method.dialog/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613306105542" />
+    <state x="2363" y="124" width="576" height="534" key="find.popup" timestamp="1613461873971">
+      <screen x="1920" y="0" width="1463" height="783" />
+    </state>
+    <state x="2363" y="124" width="576" height="534" key="find.popup/0.0.1280.680/1920.0.1463.783@1920.0.1463.783" timestamp="1613461873971" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/github/charithe/kafka/ProducerAvroTest.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="msg1" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

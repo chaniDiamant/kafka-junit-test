@@ -1,0 +1,19 @@
+
+F
+java:S5838>"+Use assertThat(actual).isPresent() instead.(¡Û©ÿÿÿÿÿ
+?
+java:S2925Q"$Remove this use of "Thread.sleep()".(€­íÜüÿÿÿÿ
+A
+java:S5838="+Use assertThat(actual).isPresent() instead.(Œš”
+M
+java:S5838;"2Use assertThat(actual).contains(expected) instead.(ÙıÄòùÿÿÿÿ
+i
+java:S5838H"NUse assertThat(actual).isNotPresent() or assertThat(actual).isEmpty() instead.(ÌÏäûÿÿÿÿ
+A
+java:S5838?"+Use assertThat(actual).isPresent() instead.(ÅêÅø
+?
+java:S29255"$Remove this use of "Thread.sleep()".(€­íÜüÿÿÿÿ
+M
+java:S5838<"2Use assertThat(actual).contains(expected) instead.(áùÿÚúÿÿÿÿ
+i
+java:S5838G"NUse assertThat(actual).isNotPresent() or assertThat(actual).isEmpty() instead.(üŞóÅÿÿÿÿÿ

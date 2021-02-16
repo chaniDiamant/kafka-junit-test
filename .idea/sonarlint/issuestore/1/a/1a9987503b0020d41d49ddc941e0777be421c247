@@ -1,0 +1,11 @@
+
+
+java:S14880"_Immediately return this expression instead of assigning it to the temporary variable "records".(¹§Éúÿÿÿÿ8âï‰şù.
+s
+java:S1128"QRemove this unused import 'io.confluent.kafka.serializers.KafkaAvroDeserializer'.(Öğéøøÿÿÿÿ8ÜÊşù.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8 êşù.
+j
+java:S1128"MRemove this unused import 'org.apache.kafka.clients.consumer.ConsumerRecord'.(±’–„8™„’şù.
+o
+java:S1128"MRemove this unused import 'org.apache.kafka.clients.consumer.ConsumerConfig'.(éöò˜üÿÿÿÿ8™„’şù.

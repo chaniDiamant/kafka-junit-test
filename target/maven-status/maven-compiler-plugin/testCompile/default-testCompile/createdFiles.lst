@@ -1,0 +1,7 @@
+com\github\charithe\kafka\KafkaJunitRuleTest$WaitForStartup.class
+com\github\charithe\kafka\EphemeralKafkaBrokerTest.class
+com\github\charithe\kafka\KafkaJunitRuleTest.class
+com\github\charithe\kafka\ProducerDemoTest.class
+com\github\charithe\kafka\KafkaJunitRuleTest$BaseTest.class
+com\github\charithe\kafka\KafkaJunitClassRuleTest.class
+com\github\charithe\kafka\KafkaHelperTest.class
